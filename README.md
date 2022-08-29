@@ -40,7 +40,7 @@ I had issues with app component alignment for different devices. I solved that i
 
 ## License
 
-    Copyright [2022] [name of copyright owner]
+    Copyright [2022] [Akil Adnan Bhuiyan]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
