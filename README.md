@@ -30,9 +30,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/iakil/CodePath_iOS-Mobile-Development/blob/main/prework/TipCalc.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/iakil/CodePath_iOS-Mobile-Development/blob/main/prework/TipCalcGif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [RecordIt](https://recordit.co/).
+GIF created with [RecordIt](https://recordit.co/) & [EZGIF](https://ezgif.com/).
 
 ## Notes
 
@@ -40,7 +40,7 @@ I had issues with app component alignment for different devices. I solved that i
 
 ## License
 
-    Copyright [2022] [name of copyright owner]
+    Copyright [2022] [Akil Adnan Bhuiyan]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
